@@ -8,8 +8,6 @@
 ![Dobblin Storefront — cover](dobblin-cover.jpg)
 
 | | |
-| :--- | :--- |
-| **Role** | Product Designer |
 | **Surface** | Desktop web |
 | **Tools** | Figma |
 | **Year** | 2026 |
