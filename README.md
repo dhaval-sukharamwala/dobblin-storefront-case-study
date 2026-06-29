@@ -30,10 +30,6 @@ out into six clear, tappable categories.
 - **An outlined-type signature** that carries the brand's loud moments without
   overwhelming the product.
 
-## More
-
-Full visual breakdown on **[Behance](https://www.behance.net/your-handle)**.
-
 ---
 
 <sub>Designed by Dhaval Sukharamwala · 2026</sub>
