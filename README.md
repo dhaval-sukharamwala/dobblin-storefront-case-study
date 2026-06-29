@@ -5,7 +5,7 @@
 
 **▶ [View the live case study](https://dhaval-sukharamwala.github.io/dobblin-storefront-case-study/)**
 
-![Dobblin Storefront — cover](./cover.jpg)
+![Dobblin Storefront — cover](./dobblin-cover.jpg)
 
 | | |
 | :--- | :--- |
